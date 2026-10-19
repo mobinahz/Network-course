@@ -1,0 +1,13 @@
+release/audioinput.o
+release/audiooutput.o
+release/Controller.o
+release/audiocontroller.o
+release/main.o
+release/peer.o
+release/webrtc.o
+release/moc_audioinput.o
+release/moc_audiooutput.o
+release/moc_Controller.o
+release/moc_audiocontroller.o
+release/moc_peer.o
+release/moc_webrtc.o

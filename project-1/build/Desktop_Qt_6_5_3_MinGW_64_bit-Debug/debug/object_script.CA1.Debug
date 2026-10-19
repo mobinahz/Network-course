@@ -1,0 +1,13 @@
+debug/audioinput.o
+debug/audiooutput.o
+debug/Controller.o
+debug/audiocontroller.o
+debug/main.o
+debug/peer.o
+debug/webrtc.o
+debug/moc_audioinput.o
+debug/moc_audiooutput.o
+debug/moc_Controller.o
+debug/moc_audiocontroller.o
+debug/moc_peer.o
+debug/moc_webrtc.o
